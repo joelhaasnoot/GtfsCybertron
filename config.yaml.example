@@ -1,0 +1,7 @@
+KeyShortener:
+    prefix: q
+    keys:
+        - service_id
+#KeyCounter:
+#    files:
+#        - calendar
